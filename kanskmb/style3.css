@@ -1,0 +1,296 @@
+body {
+margin: 0;
+padding: 0;
+font-size: 17px;
+font-family: 'Jost', sans-serif;
+COLOR: #000000;
+FONT-WEIGHT: normal;
+}
+
+#top1 {
+    float: left;
+    width: 16%;
+    height: 180px;
+    text-align: right;
+    margin-top: 1%;
+    } 
+
+#top2, #top3 {
+float: left;
+width: 20%;
+height: 180px;
+text-align: right;
+margin-top: 1%;
+}
+
+#vvv {
+float: left;
+width: 8%;
+height: 170px;
+text-align: left;
+margin-top: 1.5%; 
+margin-left: 10px;
+} 
+
+#top4 {
+    float: right;
+    width: 23%;
+    height: 180px;
+    text-align: right;
+    margin-top: 1%;
+    }
+
+#menu {
+    float: right;
+    background-color: #FF4D4D;
+    width: 100%;
+    height: 70px;
+    color: white;
+    font-weight:600;
+} 
+
+#m1{
+    float: left;
+        width: 20%;
+        text-align: left;
+        margin-left: 11%;
+        line-height: 2 
+}
+
+#m2{
+    float: left;
+        width: 22%;
+        text-align: left;
+        margin-top: 1%;
+}
+
+#m3{
+    float: left;
+        width: 20%;
+        text-align: left;
+        margin-top: 1%;
+}
+
+#m4{
+    float: left;
+    width: 22%;
+    text-align: left;
+    margin-top: 1%;
+}
+
+
+#branch {
+    float: right;
+    width: 100%;
+    height: 190px;
+    }
+   
+    #br1 {
+        float: left;
+        width: 30%;
+        height: 190px;
+        text-align: left;
+        margin-top: 1%;
+        margin-left: 11%;
+        line-height: 2;
+    }
+
+    #br2 {
+        float: left;
+        width: 30%;
+        height: 190px;
+        text-align: left;
+        margin-top: 1%;
+        line-height: 2;
+    }
+
+    #br3 {
+        float: left;
+        width: 20%;
+        height: 190px;
+        text-align: left;
+        margin-top: 1%;
+        line-height: 2;
+    }
+
+#text1 {
+    width: 40%;
+    height: 90px;
+    display: flex;
+    font-weight:600;
+    margin-left: 16%;
+    margin-top: 40%;
+    margin-bottom: 1%;
+}
+
+#text2 {
+    width: 40%;
+    height: 50px;
+    display: flex;
+    font-weight:600;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+#t1 {
+    width: 100%;
+    height: 100px;
+    margin-top: 1%;
+    margin-left: 2%;
+    font-size: 14pt;
+   
+}
+
+#t2 {
+    float: left;
+    width: 30%;
+    height: 160px;
+    margin-top: 1%;
+    margin-left: 2%; 
+}
+
+#t3 {
+    float: left;
+    width: 25%;
+    height: 160px;
+    margin-top: 1%;
+}
+
+#t4 {
+    float: left;
+    width: 22%;
+    height: 160px;
+    font-size: 14pt;
+    margin-top: 1%;
+}
+
+#t5 {
+    float: left;
+    width: 20%;
+    height: 160px;
+    font-size: 14pt;
+    margin-top: 1%;
+}
+
+#t6 {
+    float: left;
+    width: 30%;
+    height: 130px;
+    font-size: 14pt;
+    margin-left: 2%;
+}
+
+#t7 {
+    float: left;
+    width: 25%;
+    height: 130px;
+    font-size: 14pt;
+}
+
+#t8 {
+    float: left;
+    width: 100%;
+    height: 160px;
+    font-size: 14pt;
+    margin-left: 2%;
+   
+}
+
+#t9 {
+    float: left;
+    width: 96%;
+    height: 1360px;
+    font-size: 14pt;
+    margin-left: 2%;
+   text-align: justify;
+}
+
+#t10 {
+    margin-left: 2%;
+}
+
+#t11 {
+    float: left;
+    margin-left: 2%; 
+}
+
+#text3 {
+    float: left;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    font-weight:600;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+#text4 {
+    float: left;
+    width: 100%;
+    height: 20px;
+    display: flex;
+    font-weight:600;
+    margin-left: 2%;
+    margin-top: 7%;
+}
+
+#bl1 {
+    background-color: #D9D9D9;
+    width: 1200px;
+    border-radius: 50px;
+    height: 2500px;
+    margin-left: 16%;
+}
+
+#kav {
+    width: 500px;
+    height: 200px;
+    margin-left: 1%;
+}
+
+#foot1 {
+    float: right;
+    background-color:#D9D9D9;
+    margin-top: 5%;
+    width: 100%;
+    width:200 ;
+    height: 180px;
+}
+
+
+#f1 {
+float: left;
+width: 8%;
+text-align: left;
+margin-top: 1.5%;
+margin-left: 30%;
+}
+
+#f2 {
+float: left;
+width: 20%;
+text-align: left;
+margin-top: 1.5%;
+margin-left: 24%;
+}
+
+#foot2 {
+    float: right;
+    background-color:#ffffff;
+    width: 100%;
+    height: 45px;
+    margin-top: 1%;
+    text-align: center
+}
+
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
